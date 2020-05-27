@@ -1,3 +1,4 @@
 Rencana Kuliah
 -mempelajari ui/ux design
 -belajar python
+-belajar node.js
