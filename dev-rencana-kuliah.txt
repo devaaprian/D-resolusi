@@ -3,3 +3,4 @@ Rencana Kuliah
 -belajar python
 -belajar node.js
 -belajar golang
+-belajar laravel
